@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal.DataPopulator", "Internal.DataPopulator\Internal.DataPopulator.csproj", "{368531EF-FCF4-4E85-8E72-2CC3D7A634FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.Web", "Example.Web\Example.Web.csproj", "{34E6EA44-EC73-4B11-8832-9B88239D238E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{368531EF-FCF4-4E85-8E72-2CC3D7A634FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368531EF-FCF4-4E85-8E72-2CC3D7A634FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368531EF-FCF4-4E85-8E72-2CC3D7A634FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E6EA44-EC73-4B11-8832-9B88239D238E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E6EA44-EC73-4B11-8832-9B88239D238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E6EA44-EC73-4B11-8832-9B88239D238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E6EA44-EC73-4B11-8832-9B88239D238E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
