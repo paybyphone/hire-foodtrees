@@ -24,7 +24,7 @@ namespace Example.Web.Controllers
         [Route("{foodName}")]
         public IHttpActionResult GetTreeList(string foodName)
         {
-            return Json(TreeRepository.GetTreesByFoodNames("foodName"));
+            return Json(TreeRepository.GetTreesByFoodNames(foodName));
         }
     }
 }
